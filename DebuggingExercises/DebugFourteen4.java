@@ -1,3 +1,4 @@
+/*
 // Beverage selector
 // Milk and cola are $3
 // all other drinks are $2
@@ -60,4 +61,4 @@ public class DebugFourteen4 extends JFrame implements ItemListener
          totPrice.setText("$" + LOW_PRICE);
       }
    }
-}
+}*/
